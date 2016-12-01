@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 apples
 sweet oranges
 kiwis
+=======
+sweet 
+apples 
+oranges 
+kiwis 
+>>>>>>> github/master
 carrots
